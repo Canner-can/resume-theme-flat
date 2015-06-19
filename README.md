@@ -1,10 +1,10 @@
-# resume-theme-elegant
+# resume-theme-flat
 
-resume from JSONresume the elegant, original repo 
+resume from JSONresume the flat, original repo 
 
-https://github.com/mudassir0909/jsonresume-theme-elegant
+https://github.com/erming/jsonresume-theme-flat
 
-[Theme Preview](http://themes.jsonresume.org/elegant)
+[Theme Preview](http://themes.jsonresume.org/flat)
 
 ## License
 
